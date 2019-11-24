@@ -1,2 +1,2 @@
 # Bootstrap
-Bottstrap project
+My first Bottstrap project
